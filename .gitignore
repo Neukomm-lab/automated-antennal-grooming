@@ -1,0 +1,6 @@
+.DS_Store
+fly-grooming-detection-manual.md
+/src/analysis_scripts/trash
+/results
+*.png
+*.csv

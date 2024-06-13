@@ -1,0 +1,23 @@
+{
+    "PATH_TO_TRAIN_SET": "D:\\data-sets\\neukomm\\train-val-test-sets\\2022-06-17\\train_set\\",
+    "PATH_TO_VAL_SET": "D:\\data-sets\\neukomm\\train-val-test-sets\\2022-06-17\\validation_set\\",
+    "CHECKPOINT_NAME": "2022-06-17_fly_grooming_network_one_train",
+    "TRANSFORM": 1,
+    "RESIZE_FRAME": [
+        320,
+        256
+    ],
+    "THRESHOLD": 150,
+    "CRITERION": "nn.MSELoss",
+    "LEARNING_RATE": 0.003,
+    "MODEL": "conv_deconv_128",
+    "OPTIMIZER": "ADAM",
+    "NUM_EPOCHS": 14,
+    "BATCH_SIZE": 8,
+    "PIXEL_ACCURACY": 8,
+    "# Validation samples": 229,
+    "# Train samples": 916,
+    "Validation Accuracy": "98.25 %",
+    "Validation MEDIAN distance (+/- MAD)": "3.61 +/- 0.00 px",
+    "Validation AVERAGE distance (+/- STD)": "3.88 +/- 3.48 px"
+}

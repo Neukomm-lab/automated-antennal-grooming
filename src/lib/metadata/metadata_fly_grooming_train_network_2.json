@@ -1,0 +1,10 @@
+{
+    "ROOT_DIR": "D:\\data-sets\\neukomm\\train-val-test-sets\\2022-11-18_merge_naive_injury",
+    "CHECKPOINT": "2023-05-17_BEFORE_injury",
+    "TARGET_DIR": "..\\..\\results\\grooming_timeline\\",
+    "training on": "25/05/2023 11:08:53",
+    "# Validation samples": 973,
+    "# Train samples": 3499,
+    "execution time (s)": "449.4",
+    "Validation Accuracy (%)": "95.89"
+}

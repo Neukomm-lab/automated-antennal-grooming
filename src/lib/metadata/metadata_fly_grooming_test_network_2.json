@@ -1,0 +1,6 @@
+{
+    "FRAMES_DIR" : "..\\..\\..\\test_frames",
+    "CHECKPOINT" : "2022-12-20_BEFORE_injury",
+    "TARGET_DIR" : "..\\..\\results\\grooming_timeline\\",
+    "COMMENT":"Crop is from the top left corner!"
+}

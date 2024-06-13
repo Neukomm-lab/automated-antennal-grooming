@@ -1,0 +1,21 @@
+{
+    "PATH_TO_TEST_SET": "D:\\data-sets\\neukomm\\train-val-test-sets\\2022-06-17\\test_set\\",
+    "CHECKPOINT_NAME": "2022-06-17_fly_grooming_network_one_train",
+    "THRESHOLD": 150,
+    "TRANSFORM": 0,
+    "RESIZE_FRAME": [
+        320,
+        256
+    ],
+    "CROP_X": -1,
+    "CROP_Y": -1,
+    "MODEL": "conv_deconv_128",
+    "COMMENT": "Crop is from the top left corner!",
+    "PIXEL_ACCURACY": 8,
+    "# Test samples": 250,
+    "Test Accuracy": "98.80 %",
+    "Test MEDIAN distance (+/- MAD)": "3.61 +/- 0.00 px",
+    "Test AVERAGE distance (+/- STD)": "4.33 +/- 10.43 px",
+    "Test on": "21/04/2023 16:16:09",
+    "Execution time (s)": 8.19170093536377
+}

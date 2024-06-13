@@ -1,0 +1,14 @@
+{
+    "MOVIE_DIR" : "..\\..\\source_videos",
+    "COORDINATES_DIR" : "..\\..\\results\\head_coordinates\\",
+    "MOVIE_FILE_EXTENSION" : "avi",
+    "COORD_FILE_EXTENSION" : "csv",
+    "CHECKPOINT" : "2022-12-20_BEFORE_injury",
+    "RESIZE_FRAME" : [320, 256],
+    "CROP_X":-1,
+    "CROP_Y":-1,
+    "TARGET_DIR" : "..\\..\\results\\grooming_timeline\\",
+    "OUTPUT_MOVIE_DIR":"..\\..\\results\\videos\\grooming\\",
+    "LOW_RES_MOVIE_DIR":"..\\..\\results\\videos\\head_tracking\\",
+    "COMMENT":"Crop is from the top left corner!"
+}
